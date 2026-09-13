@@ -1,0 +1,10 @@
+{
+  "records": 13903,
+  "minimumHz": 16300,
+  "maximumHz": 76750000000,
+  "bySource": {
+    "EiBi A26 / KiwiSDR snapshot": 10086,
+    "HFCC A26 ALL 09-Jul-2026": 3301,
+    "Stellarium communications.json": 516
+  }
+}
