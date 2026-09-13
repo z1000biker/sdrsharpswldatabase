@@ -1,876 +1,1070 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>SAQ – Grimeton</Name>
     <GroupName>VLF – Historic</GroupName>
     <Frequency>17200</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>200</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>RDL – Russian Navy</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>18300</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GBZ – Skelton</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>19580</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>ICV – Tavolara</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>20270</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>HWU – Rosnay</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>20900</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GQD – Skelton</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>22100</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>DHO38 – Rhauderfehn</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>23400</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NAA – Cutler</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>24000</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NLK – Jim Creek</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>24800</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NML – LaMoure</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>25200</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>BETA / TBB alternate</Name>
     <GroupName>VLF – Navigation</GroupName>
     <Frequency>25500</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>TBB – Denizköy</Name>
     <GroupName>VLF – Naval</GroupName>
     <Frequency>26700</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>TFK – Grindavík</Name>
     <GroupName>LF – Utility</GroupName>
     <Frequency>37500</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NSY – Niscemi</Name>
     <GroupName>LF – Naval</GroupName>
     <Frequency>45900</Frequency>
     <DetectorType>MSK</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>MSF – Anthorn</Name>
     <GroupName>LF – Time</GroupName>
     <Frequency>60000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>100</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>RTZ – Russian time/nav</Name>
     <GroupName>LF – Time</GroupName>
     <Frequency>62500</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>200</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>RBU – Moscow</Name>
     <GroupName>LF – Time</GroupName>
     <Frequency>66667</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>200</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>DCF77 – Mainflingen</Name>
     <GroupName>LF – Time</GroupName>
     <Frequency>77500</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>100</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>LORAN reference marker</Name>
     <GroupName>LF – Navigation</GroupName>
     <Frequency>100000</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>France Inter carrier / TDF time data</Name>
     <GroupName>LF – Time</GroupName>
     <Frequency>162000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>9000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>BBC Radio 4 – Droitwich</Name>
     <GroupName>LF – Broadcast</GroupName>
     <Frequency>198000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>9000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Polskie Radio Jedynka – Solec Kujawski</Name>
     <GroupName>LF – Broadcast</GroupName>
     <Frequency>225000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>9000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Alger Chaîne 3 – Tipaza</Name>
     <GroupName>LF – Broadcast</GroupName>
     <Frequency>252000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>9000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 630 m calling/reference</Name>
     <GroupName>MF – Amateur</GroupName>
     <Frequency>472000</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NAVTEX – national language</Name>
     <GroupName>MF – Maritime</GroupName>
     <Frequency>490000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NAVTEX – international</Name>
     <GroupName>MF – Maritime</GroupName>
     <Frequency>518000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 160 m FT8</Name>
     <GroupName>MF – Amateur</GroupName>
     <Frequency>1602000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 160 m CW activity</Name>
     <GroupName>MF – Amateur</GroupName>
     <Frequency>1825000</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine SSB distress/calling</Name>
     <GroupName>MF – Maritime</GroupName>
     <Frequency>2182000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 2 MHz</Name>
     <GroupName>MF – Maritime</GroupName>
     <Frequency>2187000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV/WWVH – 2.5 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>2500000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>CHU – 3.33 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>3330000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 80 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>3573000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 80 m WSPR</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>3592000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 80 m SSB activity</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>3850000</Frequency>
     <DetectorType>LSB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 4 MHz</Name>
     <GroupName>HF – Maritime</GroupName>
     <Frequency>4207000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV/WWVH – 5 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>5000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>RAF VOLMET – Europe marker</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>5450000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Shannon VOLMET</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>5505000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Aeronautical emergency / SAR</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>5680000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 6 MHz</Name>
     <GroupName>HF – Maritime</GroupName>
     <Frequency>6312000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 40 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>7038000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 40 m SSB lower edge R1</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>7040000</Frequency>
     <DetectorType>LSB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 40 m FT8 common</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>7074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>CHU – 7.85 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>7850000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 8 MHz</Name>
     <GroupName>HF – Maritime</GroupName>
     <Frequency>8414500</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>North Atlantic aviation family marker</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>8825000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>HFDL common channel marker</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>8912000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>USAF HFGCS</Name>
     <GroupName>HF – Military</GroupName>
     <Frequency>8992000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV/WWVH – 10 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>10000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 30 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>10051000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 30 m WSPR</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>10100000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>USAF HFGCS primary</Name>
     <GroupName>HF – Military</GroupName>
     <Frequency>11175000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 12 MHz</Name>
     <GroupName>HF – Maritime</GroupName>
     <Frequency>12577000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Shannon VOLMET</Name>
     <GroupName>HF – Aviation</GroupName>
     <Frequency>13264000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 20 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>14074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 20 m WSPR</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>14095600</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV/WWVH – 15 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>15000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GMDSS DSC – 16 MHz</Name>
     <GroupName>HF – Maritime</GroupName>
     <Frequency>16804500</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 17 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>18100000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 17 m WSPR</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>18104600</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV – 20 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>20000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 15 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>21074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 12 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>24915000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>WWV – 25 MHz</Name>
     <GroupName>HF – Time</GroupName>
     <Frequency>25000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>6000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 10 m FT8</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>28120000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>IBP beacon network start marker</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>28200000</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur 10 m FM calling</Name>
     <GroupName>HF – Amateur</GroupName>
     <Frequency>29600000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>6 m beacon segment marker</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>50000000</Frequency>
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>6 m WSPR</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>50276000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>6 m FT8</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>50313000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>4 m band lower edge R1 marker</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>70000000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Airband lower edge</Name>
     <GroupName>VHF – Aviation</GroupName>
     <Frequency>118000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Aeronautical emergency</Name>
     <GroupName>VHF – Aviation</GroupName>
     <Frequency>121500000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Aeronautical SAR auxiliary</Name>
     <GroupName>VHF – Aviation</GroupName>
     <Frequency>123100000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Airband upper edge</Name>
     <GroupName>VHF – Aviation</GroupName>
     <Frequency>137000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>NOAA weather satellite APT marker</Name>
     <GroupName>VHF – Satellite</GroupName>
     <Frequency>137100000</Frequency>
     <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>40000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Meteor LRPT marker</Name>
     <GroupName>VHF – Satellite</GroupName>
     <Frequency>137620000</Frequency>
     <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>140000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>2 m CW/SSB activity</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>144050000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>2 m FT8</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>144174000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>2 m FM calling R1</Name>
     <GroupName>VHF – Amateur</GroupName>
     <Frequency>145500000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur satellite downlink segment</Name>
     <GroupName>VHF – Satellite</GroupName>
     <Frequency>145800000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>15000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>ISS packet/APRS region marker</Name>
     <GroupName>VHF – Satellite</GroupName>
     <Frequency>145825000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>15000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine VHF Ch 16</Name>
     <GroupName>VHF – Maritime</GroupName>
     <Frequency>156800000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>16000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>AIS 1</Name>
     <GroupName>VHF – Maritime</GroupName>
     <Frequency>161975000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>16000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>AIS 2</Name>
     <GroupName>VHF – Maritime</GroupName>
     <Frequency>162025000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>16000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>ISM/SRD centre frequency R1</Name>
     <GroupName>UHF – ISM</GroupName>
     <Frequency>433920000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>25000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>70 cm satellite segment marker</Name>
     <GroupName>UHF – Satellite</GroupName>
     <Frequency>435000000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>15000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>Amateur satellite downlink activity marker</Name>
     <GroupName>UHF – Satellite</GroupName>
     <Frequency>437800000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>15000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>PMR446 channel 1</Name>
     <GroupName>UHF – PMR446</GroupName>
     <Frequency>446006250</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12500</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>ADS-B 1090ES</Name>
     <GroupName>L-band – Aviation</GroupName>
     <Frequency>1090000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2400000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>ADS-B lower allocation marker</Name>
     <GroupName>L-band – Aviation</GroupName>
     <Frequency>1090000000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2000000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>GPS L1 centre</Name>
     <GroupName>L-band – GNSS</GroupName>
     <Frequency>1575420000</Frequency>
     <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2000000</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>QO-100 narrowband lower beacon</Name>
     <GroupName>Microwave – Amateur satellite</GroupName>
     <Frequency>2400050000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>QO-100 narrowband centre marker</Name>
     <GroupName>Microwave – Amateur satellite</GroupName>
     <Frequency>2400300000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>QO-100 narrowband upper beacon</Name>
     <GroupName>Microwave – Amateur satellite</GroupName>
     <Frequency>2400495000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
   <MemoryEntry>
+    <IsScanned>false</IsScanned>
+    <IsFavourite>false</IsFavourite>
     <Name>QO-100 narrowband downlink marker</Name>
     <GroupName>Microwave – Amateur satellite</GroupName>
     <Frequency>10489500000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
-    <IsFavourite>false</IsFavourite>
+    <CenterFrequency>0</CenterFrequency>
   </MemoryEntry>
 </ArrayOfMemoryEntry>
